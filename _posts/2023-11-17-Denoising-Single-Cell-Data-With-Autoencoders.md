@@ -1,6 +1,6 @@
 ---
 title: "Denoising Single Cell Data With Autoencoders (Neural Networks)"
-date: '2019-11-17'
+date: '2023-11-17'
 layout: post
 categories: Genomics
 ---

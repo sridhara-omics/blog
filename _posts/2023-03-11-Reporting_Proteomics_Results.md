@@ -1,6 +1,6 @@
 ---
 title: "Reporting Proteomics Results with Jupyter Notebook"
-date: '2019-03-11'
+date: '2023-03-11'
 layout: post
 categories: Proteomics
 ---

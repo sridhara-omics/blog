@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Genomics with Snakemake"
-date:   2019-02-26
+date:   '2023-02-26'
 categories: Genomics
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "HOW-TO setup Google Colab to run Monocle3 (single cell RNA-seq)"
-date: '2020-04-08'
+date: '2024-04-08'
 layout: post
 categories: Genomics
 ---

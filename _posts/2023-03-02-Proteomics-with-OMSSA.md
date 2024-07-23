@@ -1,6 +1,6 @@
 ---
 title: "Proteomics with OMSSA"
-date: '2019-03-02'
+date: '2023-03-02'
 layout: post
 categories: Proteomics
 ---
