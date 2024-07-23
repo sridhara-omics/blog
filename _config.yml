@@ -16,7 +16,7 @@
 title: Bioinformatics + AI
 description: >- # this means to ignore newlines until "baseurl:"
   My work in the field of bioinformatics.
-baseurl: "https://sridhara-omics.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: VishSridhara
 github_username:  sridhara-omics
